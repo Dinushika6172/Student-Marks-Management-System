@@ -1,0 +1,4 @@
+S123,Alice,90,92,78
+S001,John Doe,85,90,78
+S002,Jane Smith,92,88,84
+S003,Bob Johnson,75,80,70
